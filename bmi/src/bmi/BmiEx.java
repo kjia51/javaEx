@@ -6,4 +6,7 @@ public class BmiEx {
 	
 	// 새로 추가2
 	}
+	
+	// 새로운 추가4
+	
 }
