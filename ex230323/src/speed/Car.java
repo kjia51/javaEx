@@ -1,7 +1,7 @@
 package speed;
 
 
-import calc.CaculatorMain;
+
 
 public class Car {
 	// 필드 : 속성을 정의
